@@ -46,8 +46,8 @@ Note: Basemap installation might require additional steps depending on your syst
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/adivarma93/MLinterpolation_Brdata.git
+   cd MLinterpolation_Brdata
    ```
 
 2. **Prepare Data**:
